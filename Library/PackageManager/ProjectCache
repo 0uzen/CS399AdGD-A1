@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638239505145745180
-    m_Hash: 3285554052
+      ticks: 638239596676295350
+    m_Hash: 1100407098
   m_LockFileStatus:
     m_FilePath: C:/Users/ryrys/Unity Projects/CS399AdGD/CS399AdGD-A1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638239505748642774
-    m_Hash: 3537245572
+      ticks: 638239596676305304
+    m_Hash: 3413121907
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:

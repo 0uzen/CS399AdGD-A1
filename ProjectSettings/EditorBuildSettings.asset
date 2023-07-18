@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Transition-Graveyard.unity
     guid: e3753923d6155b44f94dc2321f0a2454
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 529e50982f92aac43b64572dc88efc07
   m_configObjects: {}
